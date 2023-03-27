@@ -30,3 +30,8 @@ den = 5 #int
 div = num/den   #implicit type casting
 
 print(type(div))
+
+
+#Primitive DS : Integer, Float, String, Boolean
+#Non-premittive data structure : tuple, array, list, dict, set
+#List : linear - Stack, Queue, Non-linewar - Graph, Tree
